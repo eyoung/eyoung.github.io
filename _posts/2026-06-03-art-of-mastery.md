@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 Hello everyone. Trying this content creation thing. Thank you for viewing my first post
 
-What does software engineering and making tea have in common? On the surface not much. Software engineering requires building code that is resilent to change and is proven to work all while tracking moving requirements, cross tream dependencies, and the ever shifting software ecosystem.
+What do software engineering and making tea have in common? On the surface not much. Software engineering requires building code that is resilent to change and is proven to work all while tracking moving requirements, cross tream dependencies, and the ever shifting software ecosystem.
 
 <!--more-->
 
