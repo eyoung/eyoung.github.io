@@ -9,4 +9,5 @@ Hello! If you are reading this you've found my blog. My name is Eric I am a soft
 I am active in Android app developent and have strong interest in machine learning, and security. Stay tuned for updates.
 
 Check me out on Github
+
 [Github: eyoung](https://github.com/eyoung)
