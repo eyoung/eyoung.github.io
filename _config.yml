@@ -23,7 +23,7 @@ title: Ramblings of a mad scientist
 description: >- # this means to ignore newlines until "baseurl:"
   Software engineer and mad scientist blogging about whatever I find interesting
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.teacraft.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  eyoung
 
