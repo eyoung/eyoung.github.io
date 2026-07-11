@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Quality in an agentic world"
-categories: software, craftsmanship, agentic, AI, LLM
 excerpt_separator: <!--more-->
 ---
 
