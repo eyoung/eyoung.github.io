@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The art of mastery"
-categories: software, craftsmanship
 excerpt_separator: <!--more-->
 ---
 Hello everyone. Trying this content creation thing. Thank you for viewing my first post
