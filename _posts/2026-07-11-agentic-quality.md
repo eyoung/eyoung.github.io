@@ -24,7 +24,7 @@ Even in this agentic world, I am convinced good tests are our best tool for buil
 
 My workflow here has gradually shifted from `Implement this feature with TDD (Test Driven Development)` to `Work with me to identify a first good test` and we work together to make sure we are testing the right thing and then I can leave it alone for a red-green-blue iteration and verify the output is in line with my own quality standards. 
 
-Maybe as I refine my own skills and rules files I can let the coding agents do more of the TDD loop on its own but for no, I find myself much less frustrated leveraging the agent as something to pair with on test than as a fully autonomous unit. 
+Maybe as I refine my own skills and rules files I can let the coding agents do more of the TDD loop on its own but for now, I find myself much less frustrated leveraging the agent as something to pair with on test than as a fully autonomous unit. 
 
 ## Architecture
 
